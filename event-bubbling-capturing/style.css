@@ -1,0 +1,18 @@
+.space {
+  padding: 50px;
+  border: 1px solid black;
+  text-align: center;
+  font-size: medium;
+}
+
+#grandparent {
+  background-color: aquamarine;
+}
+
+#parent {
+  background-color: bisque;
+}
+
+#child {
+  background-color: darkseagreen;
+}
