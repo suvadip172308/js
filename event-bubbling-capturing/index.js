@@ -1,3 +1,7 @@
+document.addEventListener('click', (event) => {
+    console.log('Execute DOCUMENT');
+  }, true);
+
 document.getElementById('grandparent')
   .addEventListener('click', (event) => {
     console.log('Execute GRAND-PARENT');
